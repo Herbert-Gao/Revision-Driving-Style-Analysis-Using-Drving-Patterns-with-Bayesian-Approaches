@@ -1,4 +1,4 @@
-# Version 2.0 Revision 'Driving Style Analysis Using Primitive Driving Patterns With Bayesian Nonparametric Approaches'
+# Version 2.0 of Revision 'Driving Style Analysis Using Primitive Driving Patterns With Bayesian Nonparametric Approaches'
 
 The first edition was finished in 2021.6.
 
